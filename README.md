@@ -20,10 +20,11 @@ to start the app server, and follow link under **Local** by either holding the C
 
 <details>
 
-<summary>###How to Use</summary>
+<summary>App Features</summary>
 
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
+✅Clean and user friendly UI with notifications and prompts for actions made.
+✅Add and edit tasks with optional descriptions.
+✅Delete functionality for tasks.
+✅Persistent Storage of data (Tasks added are not lost even after refreshing the page, and they are saved to local storage).
 
 </details>
