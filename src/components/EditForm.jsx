@@ -7,7 +7,7 @@ import { CheckIcon } from '@heroicons/react/24/outline';
 const EditForm = ({ editedTask,updateTask2, closedEditMode }) => { //use destructuring to call the addTask
     
     const [updatedTaskName, setUpdatedTaskName] = useState(editedTask.name); //tasks is an array of ...well..tasks, usestate initialized to an empty string array. 1 string for 1 task. Helps manage our state in the app
-    const [updatedTaskDescription, setUpdatedTaskDescription] = useState(editedTask.description);
+    const [updatedTaskDescription, setUpdatedTaskDescription] = useState(editedTask.description); //useState properties needed to assist with changing the descriptions.
 
     useEffect(()=> { //this snippet of code is to help with closing the edit form after clicking  outside of it or pressing whilst editing
         const closeIfEscaped = (e) => {
