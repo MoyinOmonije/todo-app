@@ -30,4 +30,6 @@ to start the app server, and follow link under **Local** by either holding the C
 
 ✅Persistent Storage of data (Tasks added are not lost even after refreshing the page, and they are saved to local storage).
 
+✅A dynamic counter with a special message based on progress made with the tasks on the list.
+
 </details>
