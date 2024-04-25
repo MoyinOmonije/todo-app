@@ -17,3 +17,13 @@ npm run dev
 ```
 
 to start the app server, and follow link under **Local** by either holding the CTRL key and clicking or just copying and pasting the link in your browser.
+
+<details>
+
+<summary>How to Use</summary>
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+</details>
