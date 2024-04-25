@@ -61,7 +61,7 @@ const EditForm = ({ editedTask,updateTask2, closedEditMode }) => { //use destruc
                             id="editTaskDescription"
                             className='input'
                             value={updatedTaskDescription}
-                            onChange={(e) => setUpdatedTaskDescription(e.target.value)}
+                            onChange={(e) => setUpdatedTaskDescription(e.target.value)} //grab the value of the target from the DOM and update accordingly
                             maxLength={100}
                             placeholder='Update Description (optional)'
                         />
