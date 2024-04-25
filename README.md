@@ -20,7 +20,7 @@ to start the app server, and follow link under **Local** by either holding the C
 
 <details>
 
-<summary>How to Use</summary>
+<summary>###How to Use</summary>
 
 You can add text within a collapsed section. 
 
